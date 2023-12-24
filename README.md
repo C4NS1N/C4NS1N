@@ -19,5 +19,5 @@
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://ko-fi.com/cansin"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="cansin" /></a></p><br><br>
 <div align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=c4ns1n&show_icons=true&locale=en&layout=compact" alt="c4ns1n" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=c4ns1n&show_icons=true&locale=en" alt="c4ns1n" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=c4ns1n&show_icons=true&locale=en&layout=compact" alt="c4ns1n" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=c4ns1n&show_icons=true&locale=en" alt="c4ns1n" /></p>
 </div>
