@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust, C and C++**
 
-- 👨‍💻 All of my projects are available at [https://github.com/C4NS1N?tab=repositories](Repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/C4NS1N](https://github.com/C4NS1N?tab=repositories)
 
 - 📫 How to reach me **cansin@tutamail.com**
 
